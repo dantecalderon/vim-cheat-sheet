@@ -3,7 +3,7 @@ vim-cheat-sheet
 
 Yet another vim cheat sheet.
 
-[http://vim.rtorr.com/](http://vim.rtorr.com/)
+[https://vim.dantecalderon.com/](https://vim.dantecalderon.com/)
 
 ## Languages
 
