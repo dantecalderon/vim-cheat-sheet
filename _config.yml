@@ -1,11 +1,11 @@
 # Site settings
 title: Vim Cheat Sheet
-email: rtorruellas@gmail.com
+email: dantehemerson@gmail.com
 description: "A mobile friendly VIM cheat sheet"
 baseurl: ""
-url: "http://vim.rtorr.com"
-twitter_username: richardiii
-github_username: rtorr
+url: "https://vim.dantecalderon.com"
+twitter_username: dantehemerson
+github_username: dantehemerson
 
 # Build settings
 markdown: kramdown
